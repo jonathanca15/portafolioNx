@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   distDir: 'out',
+  basePath: '/nombreDeTuRepo',
+  assetPrefix: '/nombreDeTuRepo/',
 };
 
 export default nextConfig;
