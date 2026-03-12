@@ -8,7 +8,6 @@ export default function Home() {
       <div className='flex justify-end cursor-pointer mr-16'>
           <div className='inline-flex gap-4'>
               <Icon className='text-white size-9  transition-all duration-300 hover:text-[#548cec] hover:drop-shadow-[0_0_10px_rgba(84,140,236,0.8)] ' icon="mdi:github" width="24" height="24" />
-
               <Icon className='text-white size-9  transition-all duration-300 hover:text-[#548cec] hover:drop-shadow-[0_0_10px_rgba(84,140,236,0.8)] ' icon="mdi:linkedin" width="24" height="24" />
           </div> 
       </div> 
